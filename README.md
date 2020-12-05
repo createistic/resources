@@ -1,7 +1,7 @@
 # Resources
 
 ### Main MVP of the product
-https://www.nomadsprint.com
+<a href="https://www.nomadsprint.com" target="_blank">https://www.nomadsprint.com</a>
 
 ### Final presentation
 

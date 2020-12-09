@@ -17,3 +17,9 @@ https://github.com/createistic/designsystem
 
 # Architecture diagram
 ![Architecture](https://github.com/createistic/resources/blob/main/images/architecture.png)
+
+# Persona example
+![Architecture](https://github.com/createistic/resources/blob/main/images/persona.png)
+
+# User Journey example
+![Architecture](https://github.com/createistic/resources/blob/main/images/user-journey.png)

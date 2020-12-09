@@ -12,7 +12,8 @@ TODO add images
 As part of the UX process we have designed key parts of the UI in Figma.  
 TODO add images
 ### Design System
-The design system is Typescript based to aid quick development the repo is here 
+The design system is Typescript-based to aid quick development the repo is here 
+https://github.com/createistic/designsystem
 
-# Architecture
+# Architecture diagram
 ![Architecture](https://github.com/createistic/resources/blob/main/architecture.png)

@@ -4,7 +4,7 @@
 https://www.nomadsprint.com
 
 ### Final presentation
-http://createistic-presentation.s3-website.eu-west-2.amazonaws.com/#0  
+https://presentation.nomadsprint.com/#0  
 NB Please use arrows on your keyboard to navigate the presentation  
 TODO: offline version
 

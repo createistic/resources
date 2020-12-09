@@ -15,13 +15,7 @@ https://github.com/createistic/nomadsprint
 # Further Information
 
 ### Business Deep Dive
-* Market
-* Business Model / Canvas
-* Kato
+https://github.com/createistic/resources/blob/main/deep-dive-business.md
 
 ### Development / UX Deep Dive
-* Tech Stack
-* Architecture / scaling
-* UX User Journey Mapping
-* UX Figma Designs
-* Design System
+https://github.com/createistic/resources/blob/main/deep-dive-development.md

@@ -20,6 +20,7 @@ https://github.com/createistic/nomadsprint
 * Kato
 
 ### Development / UX Deep Dive
+* Tech Stack
 * Architecture / scaling
 * UX User Journey Mapping
 * UX Figma Designs

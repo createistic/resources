@@ -9,10 +9,17 @@ http://createistic-presentation.s3-website.eu-west-2.amazonaws.com/#0
 ### OpenID API hosted at
 https://apiv2.nomadsprint.com/user-info
 
+### MVP Repo
+https://github.com/createistic/nomadsprint
+
 # Further Information
 
-### UX User Journey Mapping
+### Business Deep Dive
+* Canvas
+* Market
+* Kato
 
-### UX Figma Designs
-
-### Development Deep Dive
+### Development / UX Deep Dive
+* UX User Journey Mapping
+* UX Figma Designs
+* Scaling

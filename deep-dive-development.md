@@ -8,5 +8,4 @@
 
 # Architecture
 
-![Architecture image]
-(https://github.com/createistic/resources/blob/main/architecture.png)
+![Architecture] (https://github.com/createistic/resources/blob/main/architecture.png)

@@ -16,4 +16,4 @@ The design system is Typescript-based to aid quick development the repo is here
 https://github.com/createistic/designsystem
 
 # Architecture diagram
-![Architecture](https://github.com/createistic/resources/blob/main/architecture.png)
+![Architecture](https://github.com/createistic/resources/blob/main/images/architecture.png)

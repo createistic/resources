@@ -15,11 +15,12 @@ https://github.com/createistic/nomadsprint
 # Further Information
 
 ### Business Deep Dive
-* Canvas
 * Market
+* Business Model / Canvas
 * Kato
 
 ### Development / UX Deep Dive
+* Architecture / scaling
 * UX User Journey Mapping
 * UX Figma Designs
-* Scaling
+* Design System

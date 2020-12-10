@@ -4,7 +4,9 @@
 
 https://www.nomadsprint.com
 
-### Final presentation
+### Video presentation
+
+### Final presentation slides
 
 https://presentation.nomadsprint.com/#0  
 Offline version available on request

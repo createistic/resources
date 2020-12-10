@@ -6,6 +6,8 @@ https://www.nomadsprint.com
 
 ### Video presentation
 
+https://cp-prod-assets.s3.eu-west-2.amazonaws.com/nomadsprint-video.mp4
+
 ### Final presentation slides
 
 https://presentation.nomadsprint.com/#0  

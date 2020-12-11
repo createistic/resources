@@ -23,10 +23,10 @@ https://github.com/createistic/nomadsprint
 
 # Further Information
 
-### Business Deep Dive
-
-https://github.com/createistic/resources/blob/main/deep-dive-business.md
-
 ### Development / UX Deep Dive
 
 https://github.com/createistic/resources/blob/main/deep-dive-development.md
+
+### Business Canvas
+
+https://github.com/createistic/resources/blob/main/deep-dive-business.md

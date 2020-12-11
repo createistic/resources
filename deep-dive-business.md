@@ -8,4 +8,4 @@ We believe there is a huge market for these new types of work experience. As the
 
 Please see the Business Canvas below for more details on the business model.
 
-![Business Canvas](https://github.com/createistic/resources/blob/main/images/buiness-canvas.png)
+![BusinessCanvas](https://github.com/createistic/resources/blob/main/images/business-canvas.png)
